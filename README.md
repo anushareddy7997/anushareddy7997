@@ -38,8 +38,8 @@
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushareddy7997&show_icons=true&locale=en&layout=compact" alt="anushareddy7997" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushareddy7997&show_icons=true&locale=en&layout=compact" alt="anushareddy7997" /></p><br />
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anushareddy7997&show_icons=true&locale=en" alt="anushareddy7997" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anushareddy7997&show_icons=true&locale=en" alt="anushareddy7997" /></p><br />
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anushareddy7997&" alt="anushareddy7997" /></p>
