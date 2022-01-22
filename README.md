@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ... I Love to listen songs to relax my mind.
 
  FrontEnd Languages which I am familiar with
- >HTML ![image](https://user-images.githubusercontent.com/81454298/150624639-39a85047-8d19-44cd-a8d6-e1c6e352af98.png)
+ >HTML 
 
 
 
